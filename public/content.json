@@ -1,26 +1,5 @@
 {
-  "projects": [
-    {
-      "id": "easwar-dev-1792624360026",
-      "title": "Easwar Dev",
-      "category": "Web Application",
-      "tagline": "Built With JavaScript & CSS",
-      "summary": "Easwar Dev is a project built with JavaScript, CSS, HTML, available live and open source.",
-      "highlights": [
-        "Built With JavaScript, CSS, HTML",
-        "Deployed Live And Publicly Accessible",
-        "Open-Source Code Available On GitHub"
-      ],
-      "techStack": [
-        "JavaScript",
-        "CSS",
-        "HTML"
-      ],
-      "image": "https://image.thum.io/get/width/1917/crop/912/noanimate/https://easwar-dev.vercel.app/",
-      "liveUrl": "https://easwar-dev.vercel.app/",
-      "githubUrl": "https://github.com/siva2787/easwar-dev"
-    }
-  ],
+  "projects": [],
   "journey": [
     {
       "period": "Oct 2026",
@@ -29,5 +8,6 @@
       "location": "Kumbakonam",
       "description": "nothing just"
     }
-  ]
+  ],
+  "hidden": []
 }
