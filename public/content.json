@@ -1,5 +1,26 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "id": "easwar-dev-1792625260361",
+      "title": "Easwar Dev",
+      "category": "Web Application",
+      "tagline": "Built With JavaScript & CSS",
+      "summary": "Easwar Dev is a project built with JavaScript, CSS, HTML, available live and open source.",
+      "highlights": [
+        "Built With JavaScript, CSS, HTML",
+        "Deployed Live And Publicly Accessible",
+        "Open-Source Code Available On GitHub"
+      ],
+      "techStack": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "image": "https://api.microlink.io/?url=https%3A%2F%2Feaswar-dev.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1440&viewport.height=685",
+      "liveUrl": "https://easwar-dev.vercel.app/",
+      "githubUrl": "https://github.com/siva2787/easwar-dev"
+    }
+  ],
   "journey": [],
   "hidden": []
 }
